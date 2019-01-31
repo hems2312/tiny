@@ -1,0 +1,2 @@
+# tiny
+Sample npm package 
